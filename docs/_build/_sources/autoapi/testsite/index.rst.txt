@@ -1,0 +1,28 @@
+:orphan:
+
+:mod:`test-site`
+================
+
+.. py:module:: test-site
+
+
+Package Contents
+----------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   test-site.create_app
+
+
+.. function:: create_app()
+
+   Create app.
+
+   Returns:
+       app.
+
+
